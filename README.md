@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SMMayden
 - 👀 I’m interested in SysOps and all things Apple
-- 🌱 I’m currently learning AWS Cload Practioner for work and SwiftUI as a hobby
+- 🌱 I’m currently learning AWS Cloud Practioner for work and SwiftUI as a hobby
 
 
 
